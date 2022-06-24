@@ -1,4 +1,4 @@
-var clicks = 10000;
+var clicks = 0;
 var clickToAdd = 1;
 
 document.getElementById("clicks").innerHTML = 'Points: ' + clicks;
