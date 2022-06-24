@@ -1,0 +1,51 @@
+.btn-group {
+    display:flex;
+}
+
+#btn-click {
+    border: 0px;
+    background-color: green;
+
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+
+    width: 220px;
+    height: 220px;
+
+    color: white;
+    text-align: center;
+    cursor: pointer;
+
+}
+#btn-click:hover {
+    background-color: lightgreen;
+    font-size: 44px;
+}
+
+#btn-upgrade {
+    border: 0px;
+    background-color: gold;
+
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+
+    width: 220px;
+    height: 110px;
+
+    margin-left: 10px;
+
+    color: white;
+    text-align: center;
+    cursor: pointer;
+
+}
+#btn-upgrade:hover {
+    background-color: lightgoldenrodyellow;
+    color: black;
+}
+
+#clicks {
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    color: blue;
+}
